@@ -1,0 +1,20 @@
+{
+"--aggr_edge_atr": "0",
+"--aggr_vertex_feat": "0",
+"--batch_size": "64",
+"--dim_pooling": "1",
+"--drop_out": "0",
+"--emb_dim": "256",
+"--epochs": "100000",
+"--esan": "0",
+"--expl_type_enc": "1",
+"--lr": "0.001",
+"--lr_schedule_patience": "20",
+"--num_hops": "3",
+"--num_layer": "3",
+"--policy": "ego_nets",
+"--rings": "0",
+"--tracking": "1",
+"--virtual_node": "0"
+}
+# "result_val": 0.13327144086360931

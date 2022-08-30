@@ -1,0 +1,16 @@
+{"--aggr_edge_atr": "1",
+"--aggr_vertex_feat": "1",
+"--batch_size": "64",
+"--dim_pooling": "1",
+"--drop_out": "0",
+"--emb_dim": "256",
+"--epochs": "100000",
+"--expl_type_enc": "1",
+"--lr": "0.001",
+"--lr_schedule_patience": "20",
+"--max_struct_size": "8",
+"--num_layer": "4",
+"--rings": "1",
+"--tracking": "1",
+"--virtual_node": "0"}
+#"result_val": 0.08585575968027115
