@@ -1,6 +1,6 @@
 # Weisfeiler and Leman Return with Graph Transformations
 
-Code repository for our paper 'Weisfeiler and Leman Return with Graph Transformations' accepted at the 'International Workshop on Mining and Learning with Graphs' at ECMLPKDD 2022.
+Code repository for our paper ['Weisfeiler and Leman Return with Graph Transformations'](https://openreview.net/pdf?id=Oq5mzL-3SUV) accepted at the 'International Workshop on Mining and Learning with Graphs' at ECMLPKDD 2022.
 
 ## Installation
 We recommend using conda, as that will allows for an easy installation of graph tool. The following will setup your environment to run all models except CWN. To run CWN, follow the setup described in the `cwn` folder.
